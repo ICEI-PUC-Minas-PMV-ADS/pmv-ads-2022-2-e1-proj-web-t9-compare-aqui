@@ -47,7 +47,7 @@ https://pmv-ads-2022-2-e1-proj-web-t9-compare-aqui.vercel.app/
 
 # Armazenamento do Código-Fonte
 
-* <a href="src/Projeto - Final">Código Fonte</a>
+* <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t9-compare-aqui/tree/main/Projeto%20-%20Final">Código Fonte</a>
 
 # Armazenamento da Apresentação
 
