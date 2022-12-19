@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# COMPARE AKI
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 09`
 
-`SEMESTRE`
+`2022/02`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+○	Bryan Bastos
+○	Fernando Fernandes
+○	Leonardo Igor
+○	Ericson Souto
+○	Gabriela Belo
+○	Ericson Souto
 
 ## Orientador
 
-* Nome completo do professor 1
+Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
