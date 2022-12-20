@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ○	Bryan Bastos
 ○	Fernando Fernandes
-○	Leonardo Igor
+○	Leonardo Igor (Etapa 4 e Etapa 5)
 ○	Ericson Souto
 ○	Gabriela Belo
 ○	Ericson Souto
