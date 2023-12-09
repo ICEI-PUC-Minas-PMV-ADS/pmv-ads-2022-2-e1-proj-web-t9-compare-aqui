@@ -10,7 +10,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-○	Leonardo Igor
+Leonardo Igor Araujo de Souza
 
 ## Orientador
 
