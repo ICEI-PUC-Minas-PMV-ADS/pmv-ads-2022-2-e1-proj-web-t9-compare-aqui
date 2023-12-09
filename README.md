@@ -10,12 +10,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-○	Bryan Bastos
-○	Fernando Fernandes
-○	Leonardo Igor (Etapa 4 e Etapa 5)
-○	Ericson Souto
-○	Gabriela Belo
-○	Ericson Souto
+○	Leonardo Igor
 
 ## Orientador
 
